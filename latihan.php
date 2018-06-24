@@ -1,6 +1,6 @@
 <?php
 $koordinat = array(
-        array(8,2),
+        array(8,7),
         array(2,4),
         array(1,9),
 );
